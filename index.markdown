@@ -2,9 +2,9 @@
 layout: base
 ---
 
-<img src="{{ '/assets/Logo.png' | relative_url }}" alt="Tiny Defenders Logo" style="max-width: 300px; display: block; margin: 20px auto;">
+<img src="{{ 'assets/Logo.png' | relative_url }}" alt="Tiny Defenders Logo" style="max-width: 300px; display: block; margin: 20px auto;">
 
-<img src="{{ '/assets/banner_01.jpg' | relative_url }}" alt="Tiny Defenders Title Screen" style="width: 100%; margin-top: 20px; margin-bottom: 30px;">
+<img src="{{ 'assets/banner_01.jpg' | relative_url }}" alt="Tiny Defenders Title Screen" style="width: 100%; margin-top: 20px; margin-bottom: 30px;">
 
 ## About Tiny Defenders
 

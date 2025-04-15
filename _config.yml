@@ -24,7 +24,7 @@ domain: tinydefendersgame.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tiny defenders is an upcoming fantasy strategy battle simulator where you defend instead of attack.
   Coming soon to PC!
-baseurl: "/tinydefenderssite" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tinydefendersgame.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  

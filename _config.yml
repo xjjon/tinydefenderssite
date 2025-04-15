@@ -37,6 +37,19 @@ minima:
   nav_pages:
     - about.md
     - portfolio.md
+  social_links:
+    - title: Tiny Defenders Youtube
+      icon: youtube
+      url: "https://www.youtube.com/@TinyDefendersGame/"
+    - title: Tiny Defenders Instagram
+      icon: instagram
+      url: "https://www.instagram.com/tinydefendersgame"
+    - title: Lumis Entertainment Patreon
+      icon: patreon
+      url: "https://www.patreon.com/LumisEntertainment"
+    - title: Tiny Defenders Discord
+      icon: discord
+      url: "https://discord.gg/JQ6tyxeabs"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

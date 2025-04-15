@@ -28,3 +28,5 @@ Follow our social media for more updates and previews!
 [Youtube](https://www.youtube.com/@TinyDefendersGame/)
 
 [Instagram](https://www.instagram.com/tinydefendersgame)
+
+[Discord](https://discord.gg/JQ6tyxeabs)

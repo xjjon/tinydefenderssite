@@ -8,7 +8,7 @@ layout: base
 
 ## About Tiny Defenders
 
-Tiny Defenders is a strategy battle simulator game where you defend rather than attack. Defend your position from relentless waves of orc, goblin, and undead hordes. As you progress through the campaign, your roster of troops and abilities expands, giving you access to new defensive strategies.
+Tiny Defenders is a fantasy strategy battle simulator game where you defend rather than attack. Defend your position from relentless waves of orc, goblin, and undead hordes. As you progress through the campaign, your roster of troops and abilities expands, giving you access to new defensive strategies.
 
 * During the preparation phase, strategically place and upgrade units, construct and improve defenses, and manage resources
 * When waves of enemies attack your base, adapt and react to their strategies by placing units in strategic locations and casting abilities to influence the battle, such as offensive meteor strikes or defensive slowing roots or rallying calls to friendly units

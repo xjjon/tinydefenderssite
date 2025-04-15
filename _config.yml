@@ -34,9 +34,6 @@ github_username:
 remote_theme: jekyll/minima
 minima:
   skin: dark
-  nav_pages:
-    - about.md
-    - portfolio.md
   social_links:
     - title: Tiny Defenders Youtube
       icon: youtube

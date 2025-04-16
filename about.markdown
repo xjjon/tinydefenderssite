@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="{{ 'assets/banner_01.jpg' | relative_url }}" alt="Tiny Defenders Title Screen" style="width: 100%; margin-top: 20px; margin-bottom: 30px;">
+
 ### Overview
 
 Tiny Defenders is an upcoming fantasy strategy battle simulator game developed by [Lumis Entertainment](https://lumisent.com/).
